@@ -16,8 +16,8 @@ import java.util.HashMap;
 import java.util.Map;
 
 @Service
-public class JWTService {
-
+public class JWTService
+{
 	private String secretkey = "";
 
 	public JWTService()

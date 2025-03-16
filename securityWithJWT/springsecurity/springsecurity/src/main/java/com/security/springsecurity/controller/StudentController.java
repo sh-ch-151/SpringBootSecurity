@@ -38,7 +38,7 @@ public class StudentController
 	private List<Student> getStList()
 	{
 		sdts =
-			new ArrayList<>(List.of(new Student(1, "Shwetra", 23), new Student(2, "Pooja", 24)));
+			new ArrayList<>(List.of(new Student(1, "Shweta", 23), new Student(2, "Pooja", 24)));
 		return sdts;
 	}
 }
