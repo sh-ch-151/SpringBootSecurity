@@ -63,7 +63,7 @@ public class SecurityConfig
 //		UserDetails user2 = User
 //			.withDefaultPasswordEncoder()//dont used in development
 //			.username("shweta")
-//			.password("vivek")
+//			.password("shweta")
 //			.roles("USER")
 //			.build();
 //		return new InMemoryUserDetailsManager(user1, user2);
